@@ -169,64 +169,37 @@ class CronjobsController extends AppController
 													$this->OrderItem->save( $splititem );													
 												}
 												else
-												{	
-													$total = 0;
-													$perUnitPrice = $orderitem->PricePerUnit;
-													$orderQuantity = $orderitem->Quantity;
-													$inc = 0;
-													$bundleIdentity = 0;
-													
-													if( ( $splitskus[$count-1] > 1 ) )
-													{														
-														//It will be the same as Linnworks custom script term , So now will split the orders with SEQUENCING
-														$e = 0;while( $e <= ($orderQuantity-1) )
+												{
+													if( $value <= 150 && $value >= 35 )	
+													{
+														$total = 0;
+														$perUnitPrice = $orderitem->PricePerUnit;
+														$orderQuantity = $orderitem->Quantity;
+														$inc = 0;
+														$bundleIdentity = 0;
+														
+														if( ( $splitskus[$count-1] > 1 ) )
 														{														
-															
-															$total = $total + ( 1.38 * $perUnitPrice );
-															
-															if( $total <= 35 )
-															{
-																echo "Indes is :: " . $e . " <> Start ::" . $total;
-																echo "<br>";
-																$inc++;																																																
-															}
-															else
-															{	
+															//It will be the same as Linnworks custom script term , So now will split the orders with SEQUENCING
+															$e = 0;while( $e <= ($orderQuantity-1) )
+															{														
 																
-																echo "Indes is :: " . $e . " <> Bigger ::" . $total;
-																echo "<br>";
-																
-																//Store previous then initialized																	
-																$bundleIdentity++;																	
-																//Store and split the same SKU bundle order
-																$splititem['pack_order_quantity']		=	$splitskus[$count-1];
-																$splititem['product_sku_identifier']		= "single";			
-																$splititem['price']		=	$orderitem->PricePerUnit;
-																$splititem['product_order_id_identify']		=	$result->NumOrderId;
-																
-																$splititem['quantity']			=	$inc;
-																$splititem['product_type']		=	"bundle";
-																$splititem['order_id']		=	$result->NumOrderId .'-'. $bundleIdentity;
-																$splititem['sku']			=	'S-'.$splitskus[$i];
-																$productDetail				=	$this->Product->find('first', array('conditions' => array('Product.product_sku' => $splititem['sku'] )));
-																$splititem['barcode']		=	$productDetail['ProductDesc']['barcode'];
-																
-																$total = 0;
 																$total = $total + ( 1.38 * $perUnitPrice );
-																$inc = 1;
 																
-																$productDetail['Product']['current_stock_level']	= $productDetail['Product']['current_stock_level'] - $splititem['quantity'];
-																$productDetail['Product']['lock_qty']				= $productDetail['Product']['lock_qty'] + $splititem['quantity'];
-																
-																$this->Product->updateAll(array('Product.current_stock_level' => $productDetail['Product']['current_stock_level'], 'Product.lock_qty' => $productDetail['Product']['lock_qty']),
-																							array('Product.product_sku' => $splititem['sku']));
-																$this->OrderItem->create();
-																$this->OrderItem->save( $splititem );
-																
-																if( $e == $orderQuantity-1 )
+																if( $total <= 35 )
 																{
+																	echo "Indes is :: " . $e . " <> Start ::" . $total;
+																	echo "<br>";
+																	$inc++;																																																
+																}
+																else
+																{	
+																	
+																	echo "Indes is :: " . $e . " <> Bigger ::" . $total;
+																	echo "<br>";
+																	
 																	//Store previous then initialized																	
-																	$bundleIdentity++;$inc = 1;																	
+																	$bundleIdentity++;																	
 																	//Store and split the same SKU bundle order
 																	$splititem['pack_order_quantity']		=	$splitskus[$count-1];
 																	$splititem['product_sku_identifier']		= "single";			
@@ -234,7 +207,7 @@ class CronjobsController extends AppController
 																	$splititem['product_order_id_identify']		=	$result->NumOrderId;
 																	
 																	$splititem['quantity']			=	$inc;
-																	$splititem['product_type']		=	"bundle";																	
+																	$splititem['product_type']		=	"bundle";
 																	$splititem['order_id']		=	$result->NumOrderId .'-'. $bundleIdentity;
 																	$splititem['sku']			=	'S-'.$splitskus[$i];
 																	$productDetail				=	$this->Product->find('first', array('conditions' => array('Product.product_sku' => $splititem['sku'] )));
@@ -242,6 +215,7 @@ class CronjobsController extends AppController
 																	
 																	$total = 0;
 																	$total = $total + ( 1.38 * $perUnitPrice );
+																	$inc = 1;
 																	
 																	$productDetail['Product']['current_stock_level']	= $productDetail['Product']['current_stock_level'] - $splititem['quantity'];
 																	$productDetail['Product']['lock_qty']				= $productDetail['Product']['lock_qty'] + $splititem['quantity'];
@@ -251,12 +225,45 @@ class CronjobsController extends AppController
 																	$this->OrderItem->create();
 																	$this->OrderItem->save( $splititem );
 																	
+																	if( $e == $orderQuantity-1 )
+																	{
+																		//Store previous then initialized																	
+																		$bundleIdentity++;$inc = 1;																	
+																		//Store and split the same SKU bundle order
+																		$splititem['pack_order_quantity']		=	$splitskus[$count-1];
+																		$splititem['product_sku_identifier']		= "single";			
+																		$splititem['price']		=	$orderitem->PricePerUnit;
+																		$splititem['product_order_id_identify']		=	$result->NumOrderId;
+																		
+																		$splititem['quantity']			=	$inc;
+																		$splititem['product_type']		=	"bundle";																	
+																		$splititem['order_id']		=	$result->NumOrderId .'-'. $bundleIdentity;
+																		$splititem['sku']			=	'S-'.$splitskus[$i];
+																		$productDetail				=	$this->Product->find('first', array('conditions' => array('Product.product_sku' => $splititem['sku'] )));
+																		$splititem['barcode']		=	$productDetail['ProductDesc']['barcode'];
+																		
+																		$total = 0;
+																		$total = $total + ( 1.38 * $perUnitPrice );
+																		
+																		$productDetail['Product']['current_stock_level']	= $productDetail['Product']['current_stock_level'] - $splititem['quantity'];
+																		$productDetail['Product']['lock_qty']				= $productDetail['Product']['lock_qty'] + $splititem['quantity'];
+																		
+																		$this->Product->updateAll(array('Product.current_stock_level' => $productDetail['Product']['current_stock_level'], 'Product.lock_qty' => $productDetail['Product']['lock_qty']),
+																									array('Product.product_sku' => $splititem['sku']));
+																		$this->OrderItem->create();
+																		$this->OrderItem->save( $splititem );
+																		
+																	}
+																	
 																}
 																
+															$e++;	
 															}
-															
-														$e++;	
 														}
+													}
+													else
+													{
+														echo "Exceed Limit to split."; exit;
 													}												
 												}
 											}

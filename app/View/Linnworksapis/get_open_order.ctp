@@ -244,7 +244,6 @@
 										{ 											
 											echo "<b>".$item->OrderItem->pack_order_quantity."</b> X&nbsp; ".$item->OrderItem->sku ."</br>";
 											echo "<input type=hidden class=get_hidden_sku id=" .$item->OrderItem->sku ."  />";
-											
 										}
 									?>
 								</td>
