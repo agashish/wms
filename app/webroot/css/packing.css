@@ -1,0 +1,46 @@
+#label{padding:10px; width:394px; font-size:11px; color:#000000}
+#label .container{width:100%}
+#label .container .header, #label .container .cn22, #label .container .tablesection, #label .container .footer{border-bottom:2px solid #000000; clear:both; padding:8px 4px;}
+#label .container .footer{line-height:1.2}
+#label .container .leftside, #label .container .rightside, #label .container .date, #label .container .sign{float:left; width:50%}
+#label .container .jpoststamp{border:1px solid #000000; padding:1px;width:150px; float:right}
+#label .container .stampnumber{width: 35%; border:1px solid #000000; padding:4px; background:#000000; float:left; color:#ffffff; text-align:center; font-size:22px; line-height:1.2}
+#label .container .jerseyserial{ float: left;    padding: 0 5px;    width: 65%; line-height:1; text-transform:uppercase; font-size:12px;font-weight:bold}
+#label .container .vatnumber{ float: left;    padding: 2px 0 0 0; line-height:1.2; font-size:11px;font-weight:bold}
+#label .container h1{font-family:"Oswald"; font-size:16px; margin:0px}
+#label .container h3{font-size:12px;font-weight:bold; margin:0}
+#label .container h4{font-size:14px;font-weight:bold; margin:0 0 5px}
+#label .container .rightheading{text-align:center;}
+#label .container .fullwidth{clear:both}
+#label .container .fullwidth h2{text-align:center; font-size:14px; font-weight:bold; margin:0; padding:5px 0;}
+#label .container .fullwidth p{line-height:1.2; margin-top:5px}
+#label .container .producttype{margin-bottom:5px;}
+#label .container .producttype div{width:25%; display:inline-block;}
+#label .container .producttype span{border: 1px solid #000000;
+    display: inline-block;
+    height: 15px;
+    line-height: 1.2;
+    margin-right: 5px;
+    text-align:center;
+    width: 15px;}
+	#label .container table{border:none; width:100%}
+#label .container th{ font-weight:bold;font-size:12px; }
+#label .container th, #label .container td{padding:2px;line-height:1.2;}
+#label .container td table td{padding:0px;}
+#label .container .norightborder{border-right:0px;}
+#label .container .noleftborder{border-left:0px;}
+#label .container .rightborder{border-right:1px solid #000000;}
+#label .container .leftborder{border-left:1px solid #000000;}
+#label .container .topborder{border-top:1px solid #000000;}
+#label .container .bottomborder{border-bottom:1px solid #000000;}
+#label .container .center{text-align:center}
+#label .container .right{text-align:right}
+#label .container .bold{font-weight:bold;font-size:12px; }
+#label .container .sign{ margin-top: -20px;}
+#label .container .barcode{padding:5px 0;}
+#label .container .tracking{padding:5px 0;font-size:12px}
+#label .container .address{font-size:12px; line-height:1.2}
+#label .container .barcode div{font-family:"3 of 9 Barcode"; font-size:30px; margin: -5px 0;}
+#label .container .otherinfo{width:62%; float:left; margin-top:5px}
+#label .container .totalprice{width:38%; float:left; margin-top:5px}
+#label .container .tablesection{padding:0px 0px 8px ; margin-top:-1px}

@@ -1,0 +1,77 @@
+ON/OFF,Warehouse,Courier/Postal Provider,Delivery Country,Service Name,Provider Ref Code,Service Level,Per item,Per kilo,CCY of Prices,"Max Weight,
+kg",Tracked,"Min 
+Length,
+mm","Max 
+Length,
+mm","Min
+Width,
+mm","Max
+Width,
+mm","Max
+Height,
+mm",Typical Delivery Time,CN22 Required,Manifest Required,LVCR
+Enabled,Jersey,Jersey Post,United Kingdom,Large Letter \ Small Packet - White Label,SPR,Standard,0.61,1.07,GBP,0.75,No,,275,,225,25,,,,No
+Enabled,Jersey,Jersey Post,United Kingdom,Size 4 Jiffy Envelope - Light Blue,LU1,Standard,1.82,0,GBP,0.75,No,,275,,200,,,,,No
+Enabled,Jersey,Jersey Post,United Kingdom,Size 4 Jiffy Envelope - Light Blue,LU2,Standard,1.82,0,GBP,1,No,,275,,200,,,,,No
+Enabled,Jersey,Jersey Post,United Kingdom,Large Packet - Blue Label,BU1,Standard,1.97,0,GBP,0.75,No,,600,,600,600,,,,No
+Enabled,Jersey,Jersey Post,United Kingdom,Large Packet - Blue Label,BU2,Standard,2.19,0,GBP,1,No,,600,,600,600,,,,No
+Enabled,Jersey,Jersey Post,United Kingdom,Green Label up to 750g,GU1,Standard,2.95,0,GBP,0.75,No,,610,,460,460,,,,No
+Enabled,Jersey,Jersey Post,United Kingdom,Green Label up to 1000g,GU2,Standard,3.12,0,GBP,1,No,,610,,460,460,,,,No
+Enabled,Jersey,Jersey Post,United Kingdom,Green Label up to 1500g,GU3,Standard,3.28,0,GBP,1.5,No,,610,,460,460,,,,No
+Enabled,Jersey,Jersey Post,United Kingdom,Green Label up to 2000g,GU4,Standard,3.55,0,GBP,2,No,,610,,460,460,,,,No
+Enabled,Jersey,Jersey Post,United Kingdom,Green Label up to 2500g,GU5,Standard,4.55,0,GBP,2.5,No,,610,,460,460,,,,No
+Enabled,Jersey,Jersey Post,United Kingdom,Green Label up to 3000g,GU6,Standard,5.11,0,GBP,3,No,,610,,460,460,,,,No
+Enabled,Jersey,Jersey Post,United Kingdom,Green Label up to 3500g,GU7,Standard,5.66,0,GBP,3.5,No,,610,,460,460,,,,No
+Enabled,Jersey,Jersey Post,United Kingdom,Green Label up to 4000g,GU8,Standard,6.2,0,GBP,4,No,,610,,460,460,,,,No
+Enabled,Jersey,Jersey Post,United Kingdom,Green Label up to 4500g,GU9,Standard,6.75,0,GBP,4.5,No,,610,,460,460,,,,No
+Enabled,Jersey,Jersey Post,United Kingdom,Green Label up to 5000g,G10,Standard,7.29,0,GBP,5,No,,610,,460,460,,,,No
+Enabled,Jersey,Jersey Post,United Kingdom,Green Label up to 5500g,G11,Standard,7.84,0,GBP,5.5,No,,610,,460,460,,,,No
+Enabled,Jersey,Jersey Post,United Kingdom,Green Label up to 6000g,G12,Standard,8.39,0,GBP,6,No,,610,,460,460,,,,No
+Enabled,Jersey,Jersey Post,United Kingdom,Green Label up to 6500g,G13,Standard,8.93,0,GBP,6.5,No,,610,,460,460,,,,No
+Enabled,Jersey,Jersey Post,United Kingdom,Green Label up to 7000g,G14,Standard,9.48,0,GBP,7,No,,610,,460,460,,,,No
+Enabled,Jersey,Jersey Post,United Kingdom,Green Label up to 7500g,G15,Standard,10.02,0,GBP,7.5,No,,610,,460,460,,,,No
+Enabled,Jersey,Jersey Post,United Kingdom,Green Label up to 8000g,G16,Standard,10.57,0,GBP,8,No,,610,,460,460,,,,No
+Enabled,Jersey,Jersey Post,United Kingdom,Green Label up to 8500g,G17,Standard,11.12,0,GBP,8.5,No,,610,,460,460,,,,No
+Enabled,Jersey,Jersey Post,United Kingdom,Green Label up to 9000g,G18,Standard,11.66,0,GBP,9,No,,610,,460,460,,,,No
+Enabled,Jersey,Jersey Post,United Kingdom,Green Label up to 9500g,G19,Standard,12.21,0,GBP,9.5,No,,610,,460,460,,,,No
+Enabled,Jersey,Jersey Post,United Kingdom,Green Label up to 10000g,G20,Standard,12.75,0,GBP,10,No,,610,,460,460,,,,No
+Enabled,Jersey,Jersey Post,United Kingdom,Parcelforce 48 Hour,Parcelforce,Standard,8.24,0,GBP,30,Yes,,2500,,,,2 working days,Yes,No,No
+Enabled,Jersey,Jersey Post,United Kingdom,Parcelforce 48 Hour,Parcelforce,Standard,8.24,0,GBP,30,Yes,,5000,,,,2 working days,Yes,No,No
+Enabled,Jersey,Jersey Post,United Kingdom,Special Delivery Bulk UK,SDJ,Express,4.54,2.41,GBP,10,Yes,,610,,460,460,1 working day,Yes,No,No
+Enabled,Jersey,Belgium Post,United Kingdom,Size P - MiniPak EU Sorted Prior,Size P - EU,Standard,0.37,3.34,GBP,0.1,No,140,245,90,165,5,,No,Yes,EUR 30 (Item EUR 22 max)
+Enabled,Jersey,Belgium Post,United Kingdom,Size G - MiniPak EU Sorted Prior,Size G - EU,Standard,0.37,3.16,GBP,0.5,No,140,381,90,305,20,,No,Yes,EUR 30 (Item EUR 22 max)
+Enabled,Jersey,Belgium Post,United Kingdom,Size E(Bus) - MiniPak EU Sorted Prior,Size E(Bus) - EU,Standard,0.37,3.16,GBP,2,No,140,600,90,600,600,,No,Yes,EUR 30 (Item EUR 22 max)
+Enabled,Jersey,Jersey Post,United Kingdom,RECORDED Large Letter \ Small Packet - White Label,RECORDED SPR,Tracked,0.91,1.07,GBP,0.75,Yes,,275,,225,25,3-5 Working Days,Yes,No,No
+Enabled,Jersey,Jersey Post,United Kingdom,RECORDED Size 4 Jiffy Envelope - Light Blue,RECORDED LU1,Tracked,2.12,0,GBP,0.75,Yes,,275,,200,,3-5 Working Days,Yes,No,No
+Enabled,Jersey,Jersey Post,United Kingdom,RECORDED Size 4 Jiffy Envelope - Light Blue,RECORDED LU2,Tracked,2.12,0,GBP,1,Yes,,275,,200,,3-5 Working Days,Yes,No,No
+Enabled,Jersey,Jersey Post,United Kingdom,RECORDED Large Packet - Blue Label,RECORDED BU1,Tracked,2.27,0,GBP,0.75,Yes,,600,,600,600,3-5 Working Days,Yes,No,No
+Enabled,Jersey,Jersey Post,United Kingdom,RECORDED Large Packet - Blue Label,RECORDED BU2,Tracked,2.49,0,GBP,1,Yes,,600,,600,600,3-5 Working Days,Yes,No,No
+Enabled,Jersey,Jersey Post,United Kingdom,RECORDED Green Label up to 750g,RECORDED GU1,Tracked,3.25,0,GBP,0.75,Yes,,610,,460,460,3-5 Working Days,Yes,No,No
+Enabled,Jersey,Jersey Post,United Kingdom,RECORDED Green Label up to 1000g,RECORDED GU2,Tracked,3.42,0,GBP,1,Yes,,610,,460,460,3-5 Working Days,Yes,No,No
+Enabled,Jersey,Jersey Post,United Kingdom,RECORDED Green Label up to 1500g,RECORDED GU3,Tracked,3.58,0,GBP,1.5,Yes,,610,,460,460,3-5 Working Days,Yes,No,No
+Enabled,Jersey,Jersey Post,United Kingdom,RECORDED Green Label up to 2000g,RECORDED GU4,Tracked,3.85,0,GBP,2,Yes,,610,,460,460,3-5 Working Days,Yes,No,No
+Enabled,Jersey,Jersey Post,United Kingdom,RECORDED Green Label up to 2500g,RECORDED GU5,Tracked,4.85,0,GBP,2.5,Yes,,610,,460,460,3-5 Working Days,Yes,No,No
+Enabled,Jersey,Jersey Post,United Kingdom,RECORDED Green Label up to 3000g,RECORDED GU6,Tracked,5.41,0,GBP,3,Yes,,610,,460,460,3-5 Working Days,Yes,No,No
+Enabled,Jersey,Jersey Post,United Kingdom,RECORDED Green Label up to 3500g,RECORDED GU7,Tracked,5.96,0,GBP,3.5,Yes,,610,,460,460,3-5 Working Days,Yes,No,No
+Enabled,Jersey,Jersey Post,United Kingdom,RECORDED Green Label up to 4000g,RECORDED GU8,Tracked,6.5,0,GBP,4,Yes,,610,,460,460,3-5 Working Days,Yes,No,No
+Enabled,Jersey,Jersey Post,United Kingdom,RECORDED Green Label up to 4500g,RECORDED GU9,Tracked,7.05,0,GBP,4.5,Yes,,610,,460,460,3-5 Working Days,Yes,No,No
+Enabled,Jersey,Jersey Post,United Kingdom,RECORDED Green Label up to 5000g,RECORDED G10,Tracked,7.59,0,GBP,5,Yes,,610,,460,460,3-5 Working Days,Yes,No,No
+Enabled,Jersey,Jersey Post,United Kingdom,RECORDED Green Label up to 5500g,RECORDED G11,Tracked,8.14,0,GBP,5.5,Yes,,610,,460,460,3-5 Working Days,Yes,No,No
+Enabled,Jersey,Jersey Post,United Kingdom,RECORDED Green Label up to 6000g,RECORDED G12,Tracked,8.69,0,GBP,6,Yes,,610,,460,460,3-5 Working Days,Yes,No,No
+Enabled,Jersey,Jersey Post,United Kingdom,RECORDED Green Label up to 6500g,RECORDED G13,Tracked,9.23,0,GBP,6.5,Yes,,610,,460,460,3-5 Working Days,Yes,No,No
+Enabled,Jersey,Jersey Post,United Kingdom,RECORDED Green Label up to 7000g,RECORDED G14,Tracked,9.78,0,GBP,7,Yes,,610,,460,460,3-5 Working Days,Yes,No,No
+Enabled,Jersey,Jersey Post,United Kingdom,RECORDED Green Label up to 7500g,RECORDED G15,Tracked,10.32,0,GBP,7.5,Yes,,610,,460,460,3-5 Working Days,Yes,No,No
+Enabled,Jersey,Jersey Post,United Kingdom,RECORDED Green Label up to 8000g,RECORDED G16,Tracked,10.87,0,GBP,8,Yes,,610,,460,460,3-5 Working Days,Yes,No,No
+Enabled,Jersey,Jersey Post,United Kingdom,RECORDED Green Label up to 8500g,RECORDED G17,Tracked,11.42,0,GBP,8.5,Yes,,610,,460,460,3-5 Working Days,Yes,No,No
+Enabled,Jersey,Jersey Post,United Kingdom,RECORDED Green Label up to 9000g,RECORDED G18,Tracked,11.96,0,GBP,9,Yes,,610,,460,460,3-5 Working Days,Yes,No,No
+Enabled,Jersey,Jersey Post,United Kingdom,RECORDED Green Label up to 9500g,RECORDED G19,Tracked,12.51,0,GBP,9.5,Yes,,610,,460,460,3-5 Working Days,Yes,No,No
+Enabled,Jersey,Jersey Post,United Kingdom,RECORDED Green Label up to 10000g,RECORDED G20,Tracked,13.05,0,GBP,10,Yes,,610,,460,460,3-5 Working Days,Yes,No,No
+Enabled,Jersey,DHL,United Kingdom,WPX,Zone 1,Express,6.73,0,GBP,0.5,Yes,,200,,120,100,1 - 2 day,No,Invoice,No
+Enabled,Jersey,DHL,United Kingdom,WPX,Zone 1,Express,7.64,0,GBP,1,Yes,,200,,120,100,1 - 2 day,No,Invoice,No
+Enabled,Jersey,DHL,United Kingdom,WPX,Zone 1,Express,8.12,0,GBP,1.5,Yes,,200,,120,100,1 - 2 day,No,Invoice,No
+Enabled,Jersey,DHL,United Kingdom,WPX,Zone 1,Express,8.61,0,GBP,2,Yes,,200,,120,100,1 - 2 day,No,Invoice,No
+Enabled,Jersey,DHL,United Kingdom,WPX,Zone 1,Express,8.98,0,GBP,2.5,Yes,,200,,120,100,1 - 2 day,No,Invoice,No
+Enabled,Jersey,DHL,United Kingdom,WPX,Zone 1,Express,9.34,0,GBP,3,Yes,,200,,120,100,1 - 2 day,No,Invoice,No
+Enabled,Jersey,Jersey Post,United Kingdom,Special Delivery Bulk UK Max 15 kilos,SD2,Express,33.48,Fixed Rate,GBP,15,,,,,,,,,,
+Enabled,Jersey,Jersey Post,United Kingdom,Special Delivery Bulk UK Max 20 kilos,SD3,Express,43.26,Fixed Rate,GBP,20,,,,,,,,,,
+Enabled,Jersey,Jersey Post,United Kingdom,Special Delivery Bulk UK Max 10 kilos,SDJ,Express,4.54,2.41,GBP,10,,,,,,,,,,

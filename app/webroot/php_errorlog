@@ -1,0 +1,324 @@
+[19-May-2015 04:50:51 CST6CDT] PHP Fatal error:  Cannot redeclare class WarehouseDesc in /home/lovevit8/public_html/wms/app/Model/SupplierImage.php on line 20
+[19-May-2015 04:51:02 CST6CDT] PHP Fatal error:  Cannot redeclare class WarehouseDesc in /home/lovevit8/public_html/wms/app/Model/SupplierImage.php on line 20
+[22-May-2015 04:58:00 CST6CDT] PHP Fatal error:  Call to a member function login() on a non-object in /home/lovevit8/public_html/wms/app/Controller/UsersController.php on line 35
+[22-May-2015 04:58:16 CST6CDT] PHP Fatal error:  Call to a member function login() on a non-object in /home/lovevit8/public_html/wms/app/Controller/UsersController.php on line 35
+[22-May-2015 05:02:23 CST6CDT] PHP Fatal error:  Call to a member function login() on a non-object in /home/lovevit8/public_html/wms/app/Controller/UsersController.php on line 35
+[22-May-2015 05:02:56 CST6CDT] PHP Fatal error:  Call to a member function login() on a non-object in /home/lovevit8/public_html/wms/app/Controller/UsersController.php on line 35
+[22-May-2015 05:03:41 CST6CDT] PHP Fatal error:  Call to a member function login() on a non-object in /home/lovevit8/public_html/wms/app/Controller/UsersController.php on line 35
+[22-May-2015 05:04:30 CST6CDT] PHP Fatal error:  Call to a member function login() on a non-object in /home/lovevit8/public_html/wms/app/Controller/UsersController.php on line 35
+[22-May-2015 06:53:25 CST6CDT] PHP Fatal error:  Cannot redeclare class WarehouseDesc in /home/lovevit8/public_html/wms/app/Model/SupplierImage.php on line 20
+[22-May-2015 06:53:53 CST6CDT] PHP Fatal error:  Cannot redeclare class WarehouseDesc in /home/lovevit8/public_html/wms/app/Model/SupplierImage.php on line 20
+[25-May-2015 04:54:26 CST6CDT] PHP Warning:  Unterminated comment starting line 266 in /home/lovevit8/public_html/wms/app/Config/core.php on line 266
+[25-May-2015 05:23:47 CST6CDT] PHP Fatal error:  Call to undefined method WarehousesController::unbindModel() in /home/lovevit8/public_html/wms/app/Controller/WarehousesController.php on line 188
+[25-May-2015 05:28:23 CST6CDT] PHP Fatal error:  Call to a member function unbindModel() on a non-object in /home/lovevit8/public_html/wms/app/Controller/WarehousesController.php on line 188
+[25-May-2015 07:24:51 CST6CDT] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/lovevit8/public_html/wms/app/Controller/WarehousesController.php on line 189
+[25-May-2015 07:47:42 CST6CDT] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/lovevit8/public_html/wms/app/Controller/WarehousesController.php on line 189
+[25-May-2015 07:48:11 CST6CDT] PHP Parse error:  syntax error, unexpected '=' in /home/lovevit8/public_html/wms/app/Controller/WarehousesController.php on line 189
+[25-May-2015 07:48:38 CST6CDT] PHP Parse error:  syntax error, unexpected '=' in /home/lovevit8/public_html/wms/app/Controller/WarehousesController.php on line 189
+[26-May-2015 00:05:00 CST6CDT] PHP Parse error:  syntax error, unexpected ')' in /home/lovevit8/public_html/wms/app/Controller/WarehousesController.php on line 193
+[26-May-2015 00:07:57 CST6CDT] PHP Parse error:  syntax error, unexpected ')' in /home/lovevit8/public_html/wms/app/Controller/WarehousesController.php on line 193
+[26-May-2015 00:08:33 CST6CDT] PHP Parse error:  syntax error, unexpected ')' in /home/lovevit8/public_html/wms/app/Controller/WarehousesController.php on line 193
+[26-May-2015 01:39:39 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/lovevit8/public_html/wms/app/Controller/WarehousesController.php on line 46
+[26-May-2015 05:06:33 CST6CDT] PHP Fatal error:  Call to a member function setflash() on a non-object in /home/lovevit8/public_html/wms/app/Controller/WarehousesController.php on line 89
+[26-May-2015 05:18:04 CST6CDT] PHP Parse error:  syntax error, unexpected end of file, expecting '(' in /home/lovevit8/public_html/wms/app/Model/Warehouse.php on line 54
+[26-May-2015 06:52:20 CST6CDT] PHP Fatal error:  Call to undefined function showallwarehouse() in /home/lovevit8/public_html/wms/app/Controller/WarehousesController.php on line 215
+[03-Jun-2015 23:47:17 CST6CDT] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/lovevit8/public_html/wms/app/Model/Warehouse.php on line 36
+[03-Jun-2015 23:50:22 CST6CDT] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/lovevit8/public_html/wms/app/Model/Warehouse.php on line 36
+[18-Jun-2015 06:03:24 CST6CDT] PHP Fatal error:  Class 'WarehouseLevel' not found in /home/lovevit8/public_html/wms/lib/Cake/View/Helper/CommonHelper.php on line 112
+[22-Jun-2015 23:35:27 CST6CDT] PHP Fatal error:  Call to a member function getCityList() on a non-object in /home/lovevit8/public_html/wms/app/Controller/AppController.php on line 51
+[22-Jun-2015 23:36:22 CST6CDT] PHP Fatal error:  Call to a member function getCityList() on a non-object in /home/lovevit8/public_html/wms/app/Controller/AppController.php on line 51
+[22-Jun-2015 23:36:23 CST6CDT] PHP Fatal error:  Call to a member function getCityList() on a non-object in /home/lovevit8/public_html/wms/app/Controller/AppController.php on line 51
+[22-Jun-2015 23:36:25 CST6CDT] PHP Fatal error:  Call to a member function getCityList() on a non-object in /home/lovevit8/public_html/wms/app/Controller/AppController.php on line 51
+[22-Jun-2015 23:36:26 CST6CDT] PHP Fatal error:  Call to a member function getCityList() on a non-object in /home/lovevit8/public_html/wms/app/Controller/AppController.php on line 51
+[22-Jun-2015 23:38:49 CST6CDT] PHP Fatal error:  Call to a member function getCityList() on a non-object in /home/lovevit8/public_html/wms/app/Controller/AppController.php on line 51
+[22-Jun-2015 23:39:12 CST6CDT] PHP Fatal error:  Call to a member function getCityList() on a non-object in /home/lovevit8/public_html/wms/app/Controller/AppController.php on line 51
+[22-Jun-2015 23:39:23 CST6CDT] PHP Fatal error:  Call to a member function getCityList() on a non-object in /home/lovevit8/public_html/wms/app/Controller/AppController.php on line 51
+[22-Jun-2015 23:39:28 CST6CDT] PHP Fatal error:  Call to a member function getCityList() on a non-object in /home/lovevit8/public_html/wms/app/Controller/AppController.php on line 51
+[22-Jun-2015 23:39:33 CST6CDT] PHP Fatal error:  Call to a member function getCityList() on a non-object in /home/lovevit8/public_html/wms/app/Controller/AppController.php on line 51
+[22-Jun-2015 23:48:58 CST6CDT] PHP Fatal error:  Call to a member function getCityList() on a non-object in /home/lovevit8/public_html/wms/app/Controller/AppController.php on line 51
+[22-Jun-2015 23:49:01 CST6CDT] PHP Fatal error:  Call to a member function getCityList() on a non-object in /home/lovevit8/public_html/wms/app/Controller/AppController.php on line 51
+[22-Jun-2015 23:49:11 CST6CDT] PHP Fatal error:  Call to a member function getCityList() on a non-object in /home/lovevit8/public_html/wms/app/Controller/AppController.php on line 51
+[23-Jun-2015 01:00:05 CST6CDT] PHP Fatal error:  Call to a member function getCityList() on a non-object in /home/lovevit8/public_html/wms/app/Controller/AppController.php on line 51
+[23-Jun-2015 01:23:47 CST6CDT] PHP Fatal error:  Cannot redeclare CommonComponent::getCityList() in /home/lovevit8/public_html/wms/app/Controller/Component/CommonComponent.php on line 112
+[23-Jun-2015 01:24:05 CST6CDT] PHP Fatal error:  Cannot redeclare CommonComponent::getCityList() in /home/lovevit8/public_html/wms/app/Controller/Component/CommonComponent.php on line 112
+[23-Jun-2015 01:24:08 CST6CDT] PHP Fatal error:  Cannot redeclare CommonComponent::getCityList() in /home/lovevit8/public_html/wms/app/Controller/Component/CommonComponent.php on line 112
+[23-Jun-2015 01:24:41 CST6CDT] PHP Fatal error:  Cannot redeclare CommonComponent::getCityList() in /home/lovevit8/public_html/wms/app/Controller/Component/CommonComponent.php on line 112
+[25-Jun-2015 05:02:02 CST6CDT] PHP Fatal error:  Cannot redeclare ServerajaxsController::saveBin() in /home/lovevit8/public_html/wms/app/Controller/ServerajaxsController.php on line 492
+[25-Jun-2015 05:02:10 CST6CDT] PHP Fatal error:  Cannot redeclare ServerajaxsController::saveBin() in /home/lovevit8/public_html/wms/app/Controller/ServerajaxsController.php on line 492
+[25-Jun-2015 05:02:27 CST6CDT] PHP Fatal error:  Cannot redeclare ServerajaxsController::saveBin() in /home/lovevit8/public_html/wms/app/Controller/ServerajaxsController.php on line 492
+[25-Jun-2015 05:02:37 CST6CDT] PHP Fatal error:  Cannot redeclare ServerajaxsController::saveBin() in /home/lovevit8/public_html/wms/app/Controller/ServerajaxsController.php on line 492
+[26-Jun-2015 02:33:10 CST6CDT] PHP Parse error:  syntax error, unexpected ')' in /home/lovevit8/public_html/wms/app/Controller/ServerajaxsController.php on line 86
+[26-Jun-2015 02:33:12 CST6CDT] PHP Parse error:  syntax error, unexpected ')' in /home/lovevit8/public_html/wms/app/Controller/ServerajaxsController.php on line 86
+[26-Jun-2015 02:33:14 CST6CDT] PHP Parse error:  syntax error, unexpected ')' in /home/lovevit8/public_html/wms/app/Controller/ServerajaxsController.php on line 86
+[26-Jun-2015 02:33:15 CST6CDT] PHP Parse error:  syntax error, unexpected ')' in /home/lovevit8/public_html/wms/app/Controller/ServerajaxsController.php on line 86
+[26-Jun-2015 02:36:35 CST6CDT] PHP Parse error:  syntax error, unexpected ')' in /home/lovevit8/public_html/wms/app/Controller/ServerajaxsController.php on line 86
+[26-Jun-2015 02:38:23 CST6CDT] PHP Parse error:  syntax error, unexpected ')' in /home/lovevit8/public_html/wms/app/Controller/ServerajaxsController.php on line 86
+[26-Jun-2015 02:38:28 CST6CDT] PHP Parse error:  syntax error, unexpected ')' in /home/lovevit8/public_html/wms/app/Controller/ServerajaxsController.php on line 86
+[26-Jun-2015 02:38:29 CST6CDT] PHP Parse error:  syntax error, unexpected ')' in /home/lovevit8/public_html/wms/app/Controller/ServerajaxsController.php on line 86
+[26-Jun-2015 02:38:31 CST6CDT] PHP Parse error:  syntax error, unexpected ')' in /home/lovevit8/public_html/wms/app/Controller/ServerajaxsController.php on line 86
+[26-Jun-2015 02:38:40 CST6CDT] PHP Parse error:  syntax error, unexpected ')' in /home/lovevit8/public_html/wms/app/Controller/ServerajaxsController.php on line 86
+[26-Jun-2015 02:38:49 CST6CDT] PHP Parse error:  syntax error, unexpected ')' in /home/lovevit8/public_html/wms/app/Controller/ServerajaxsController.php on line 86
+[26-Jun-2015 03:00:16 CST6CDT] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/lovevit8/public_html/wms/app/View/Elements/header.ctp on line 575
+[26-Jun-2015 03:00:21 CST6CDT] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/lovevit8/public_html/wms/app/View/Elements/header.ctp on line 575
+[26-Jun-2015 03:00:21 CST6CDT] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/lovevit8/public_html/wms/app/View/Elements/header.ctp on line 575
+[01-Jul-2015 02:59:55 CST6CDT] PHP Fatal error:  Cannot redeclare ServerajaxsController::levelUpdate() in /home/lovevit8/public_html/wms/app/Controller/ServerajaxsController.php on line 752
+[01-Jul-2015 02:59:58 CST6CDT] PHP Fatal error:  Cannot redeclare ServerajaxsController::levelUpdate() in /home/lovevit8/public_html/wms/app/Controller/ServerajaxsController.php on line 752
+[01-Jul-2015 03:00:05 CST6CDT] PHP Fatal error:  Cannot redeclare ServerajaxsController::levelUpdate() in /home/lovevit8/public_html/wms/app/Controller/ServerajaxsController.php on line 752
+[01-Jul-2015 03:01:06 CST6CDT] PHP Fatal error:  Cannot redeclare ServerajaxsController::levelUpdate() in /home/lovevit8/public_html/wms/app/Controller/ServerajaxsController.php on line 752
+[01-Jul-2015 03:01:46 CST6CDT] PHP Fatal error:  Cannot redeclare ServerajaxsController::levelUpdate() in /home/lovevit8/public_html/wms/app/Controller/ServerajaxsController.php on line 752
+[03-Jul-2015 01:49:39 CST6CDT] PHP Parse error:  syntax error, unexpected ''core'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/lovevit8/public_html/wms/app/View/Layouts/index.ctp on line 52
+[13-Jul-2015 06:49:59 CST6CDT] PHP Parse error:  syntax error, unexpected '}' in /home/lovevit8/public_html/wms/lib/Cake/View/Helper/CommonHelper.php on line 191
+[13-Jul-2015 06:51:55 CST6CDT] PHP Fatal error:  Call to undefined method CommonComponent::getCategoryList() in /home/lovevit8/public_html/wms/app/Controller/CategoriesController.php on line 296
+[16-Jul-2015 07:54:41 CST6CDT] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/lovevit8/public_html/wms/app/Controller/BrandsController.php on line 375
+[12-Aug-2015 04:20:55 CST6CDT] PHP Fatal error:  Class 'PHPExcel' not found in /home/lovevit8/public_html/wms/app/Controller/LinnworksapisController.php on line 96
+[12-Aug-2015 06:36:29 CST6CDT] PHP Fatal error:  Call to a member function currency() on a non-object in /home/lovevit8/public_html/wms/app/Controller/LinnworksapisController.php on line 147
+[21-Aug-2015 00:10:07 CST6CDT] PHP Fatal error:  Class 'AuthMethods' not found in /home/lovevit8/public_html/wms/app/View/Linnworksapis/get_open_order.ctp on line 8
+[21-Aug-2015 00:10:12 CST6CDT] PHP Fatal error:  Class 'AuthMethods' not found in /home/lovevit8/public_html/wms/app/View/Linnworksapis/get_open_order.ctp on line 8
+[21-Aug-2015 00:10:17 CST6CDT] PHP Fatal error:  Class 'AuthMethods' not found in /home/lovevit8/public_html/wms/app/View/Linnworksapis/get_open_order.ctp on line 8
+[21-Aug-2015 00:10:25 CST6CDT] PHP Fatal error:  Class 'AuthMethods' not found in /home/lovevit8/public_html/wms/app/View/Linnworksapis/get_open_order.ctp on line 8
+[24-Sep-2015 23:39:17 CST6CDT] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 841287 bytes) in /home/lovevit8/public_html/wms/lib/Cake/Utility/String.php on line 240
+[24-Sep-2015 23:43:07 CST6CDT] PHP Fatal error:  Maximum execution time of 45 seconds exceeded in /home/lovevit8/public_html/wms/lib/Cake/Utility/Debugger.php on line 491
+[25-Sep-2015 04:57:05 CST6CDT] PHP Parse error:  syntax error, unexpected '(' in /home/lovevit8/public_html/wms/app/Model/AmazonFee.php on line 26
+[25-Sep-2015 04:57:24 CST6CDT] PHP Parse error:  syntax error, unexpected '(' in /home/lovevit8/public_html/wms/app/Model/AmazonFee.php on line 26
+[25-Sep-2015 04:58:10 CST6CDT] PHP Parse error:  syntax error, unexpected '(' in /home/lovevit8/public_html/wms/app/Model/AmazonFee.php on line 26
+[25-Sep-2015 04:58:10 CST6CDT] PHP Parse error:  syntax error, unexpected '(' in /home/lovevit8/public_html/wms/app/Model/AmazonFee.php on line 26
+[25-Sep-2015 04:58:11 CST6CDT] PHP Parse error:  syntax error, unexpected '(' in /home/lovevit8/public_html/wms/app/Model/AmazonFee.php on line 26
+[25-Sep-2015 04:58:11 CST6CDT] PHP Parse error:  syntax error, unexpected '(' in /home/lovevit8/public_html/wms/app/Model/AmazonFee.php on line 26
+[25-Sep-2015 04:58:11 CST6CDT] PHP Parse error:  syntax error, unexpected '(' in /home/lovevit8/public_html/wms/app/Model/AmazonFee.php on line 26
+[25-Sep-2015 04:58:11 CST6CDT] PHP Parse error:  syntax error, unexpected '(' in /home/lovevit8/public_html/wms/app/Model/AmazonFee.php on line 26
+[25-Sep-2015 04:58:11 CST6CDT] PHP Parse error:  syntax error, unexpected '(' in /home/lovevit8/public_html/wms/app/Model/AmazonFee.php on line 26
+[25-Sep-2015 04:58:59 CST6CDT] PHP Parse error:  syntax error, unexpected '(' in /home/lovevit8/public_html/wms/app/Model/AmazonFee.php on line 26
+[25-Sep-2015 05:00:23 CST6CDT] PHP Parse error:  syntax error, unexpected '(' in /home/lovevit8/public_html/wms/app/Model/AmazonFee.php on line 26
+[25-Sep-2015 05:02:08 CST6CDT] PHP Parse error:  syntax error, unexpected '(' in /home/lovevit8/public_html/wms/app/Model/AmazonFee.php on line 31
+[25-Sep-2015 05:02:35 CST6CDT] PHP Parse error:  syntax error, unexpected '(' in /home/lovevit8/public_html/wms/app/Model/AmazonFee.php on line 31
+[20-Oct-2015 23:35:10 CST6CDT] PHP Parse error:  syntax error, unexpected '(' in /home/lovevit8/public_html/wms/app/Model/AmazonPlatformFee.php on line 30
+[20-Oct-2015 23:35:24 CST6CDT] PHP Parse error:  syntax error, unexpected '(' in /home/lovevit8/public_html/wms/app/Model/AmazonPlatformFee.php on line 30
+[20-Oct-2015 23:37:49 CST6CDT] PHP Parse error:  syntax error, unexpected '(' in /home/lovevit8/public_html/wms/app/Model/AmazonPlatformFee.php on line 30
+[20-Oct-2015 23:40:55 CST6CDT] PHP Parse error:  syntax error, unexpected '(' in /home/lovevit8/public_html/wms/app/Model/AmazonPlatformFee.php on line 35
+[20-Oct-2015 23:41:28 CST6CDT] PHP Parse error:  syntax error, unexpected '(' in /home/lovevit8/public_html/wms/app/Model/AmazonPlatformFee.php on line 30
+[20-Oct-2015 23:41:55 CST6CDT] PHP Parse error:  syntax error, unexpected '(' in /home/lovevit8/public_html/wms/app/Model/AmazonPlatformFee.php on line 36
+[20-Oct-2015 23:42:21 CST6CDT] PHP Parse error:  syntax error, unexpected '(' in /home/lovevit8/public_html/wms/app/Model/AmazonPlatformFee.php on line 36
+[20-Oct-2015 23:42:40 CST6CDT] PHP Parse error:  syntax error, unexpected '(' in /home/lovevit8/public_html/wms/app/Model/AmazonPlatformFee.php on line 36
+[20-Oct-2015 23:44:31 CST6CDT] PHP Parse error:  syntax error, unexpected '(' in /home/lovevit8/public_html/wms/app/Model/AmazonPlatformFee.php on line 36
+[21-Oct-2015 00:50:46 CST6CDT] PHP Fatal error:  Can't use method return value in write context in /home/lovevit8/public_html/wms/app/Controller/ProductsController.php on line 46
+[21-Oct-2015 00:51:47 CST6CDT] PHP Fatal error:  Can't use method return value in write context in /home/lovevit8/public_html/wms/app/Controller/ProductsController.php on line 46
+[21-Oct-2015 00:51:49 CST6CDT] PHP Fatal error:  Can't use method return value in write context in /home/lovevit8/public_html/wms/app/Controller/ProductsController.php on line 46
+[21-Oct-2015 00:51:52 CST6CDT] PHP Fatal error:  Can't use method return value in write context in /home/lovevit8/public_html/wms/app/Controller/ProductsController.php on line 46
+[21-Oct-2015 00:52:53 CST6CDT] PHP Fatal error:  Can't use method return value in write context in /home/lovevit8/public_html/wms/app/Controller/ProductsController.php on line 46
+[21-Oct-2015 00:57:20 CST6CDT] PHP Fatal error:  Call to a member function set() on a non-object in /home/lovevit8/public_html/wms/app/Controller/ProductsController.php on line 63
+[21-Oct-2015 00:59:50 CST6CDT] PHP Fatal error:  Call to a member function set() on a non-object in /home/lovevit8/public_html/wms/app/Controller/ProductsController.php on line 63
+[21-Oct-2015 01:12:44 CST6CDT] PHP Fatal error:  Can't use method return value in write context in /home/lovevit8/public_html/wms/app/Controller/ProductsController.php on line 46
+[21-Oct-2015 01:14:25 CST6CDT] PHP Fatal error:  Can't use method return value in write context in /home/lovevit8/public_html/wms/app/Controller/ProductsController.php on line 46
+[21-Oct-2015 01:14:28 CST6CDT] PHP Fatal error:  Can't use method return value in write context in /home/lovevit8/public_html/wms/app/Controller/ProductsController.php on line 46
+[21-Oct-2015 01:16:41 CST6CDT] PHP Fatal error:  Can't use method return value in write context in /home/lovevit8/public_html/wms/app/Controller/ProductsController.php on line 46
+[21-Oct-2015 01:16:50 CST6CDT] PHP Fatal error:  Can't use method return value in write context in /home/lovevit8/public_html/wms/app/Controller/ProductsController.php on line 46
+[21-Oct-2015 01:58:23 CST6CDT] PHP Fatal error:  Can't use method return value in write context in /home/lovevit8/public_html/wms/app/Controller/ProductsController.php on line 46
+[21-Oct-2015 05:05:57 CST6CDT] PHP Fatal error:  Can't use method return value in write context in /home/lovevit8/public_html/wms/app/Controller/ProductsController.php on line 46
+[28-Oct-2015 01:05:34 CST6CDT] PHP Parse error:  syntax error, unexpected '$pdf' (T_VARIABLE) in /home/lovevit8/public_html/wms/app/Controller/CronjobsController.php on line 525
+[28-Oct-2015 01:27:17 CST6CDT] PHP Fatal error:  Call to undefined method TCPDF::addFormat() in /home/lovevit8/public_html/wms/app/Controller/CronjobsController.php on line 354
+[28-Oct-2015 01:27:34 CST6CDT] PHP Fatal error:  Call to undefined method TCPDF::addFormat() in /home/lovevit8/public_html/wms/app/Controller/CronjobsController.php on line 354
+[28-Oct-2015 01:36:07 CST6CDT] PHP Fatal error:  Call to undefined method TCPDF::addFormat() in /home/lovevit8/public_html/wms/app/Controller/CronjobsController.php on line 354
+[29-Oct-2015 00:31:58 CST6CDT] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home/lovevit8/public_html/wms/app/Controller/CronjobsController.php on line 587
+[29-Oct-2015 00:32:10 CST6CDT] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home/lovevit8/public_html/wms/app/Controller/CronjobsController.php on line 587
+[29-Oct-2015 00:32:14 CST6CDT] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home/lovevit8/public_html/wms/app/Controller/CronjobsController.php on line 587
+[29-Oct-2015 00:32:27 CST6CDT] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home/lovevit8/public_html/wms/app/Controller/CronjobsController.php on line 587
+[29-Oct-2015 00:32:52 CST6CDT] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home/lovevit8/public_html/wms/app/Controller/CronjobsController.php on line 587
+[29-Oct-2015 00:33:08 CST6CDT] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home/lovevit8/public_html/wms/app/Controller/CronjobsController.php on line 587
+[29-Oct-2015 00:33:18 CST6CDT] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home/lovevit8/public_html/wms/app/Controller/CronjobsController.php on line 587
+[29-Oct-2015 02:58:28 CST6CDT] PHP Parse error:  syntax error, unexpected '?' in /home/lovevit8/public_html/wms/app/View/Layouts/index.ctp on line 24
+[30-Oct-2015 02:07:48 CST6CDT] PHP Fatal error:  require_once() [<a href='http://php.net/function.require'>function.require</a>]: Failed opening required '/home/lovevit8/public_html/wms/app/Vendor/dompdf/include/packagingslip.cls.php' (include_path='/home/lovevit8/public_html/wms/lib:.:/usr/local/php54/pear') in /home/lovevit8/public_html/wms/app/Vendor/dompdf/dompdf_config.inc.php on line 209
+[30-Oct-2015 02:10:03 CST6CDT] PHP Fatal error:  require_once() [<a href='http://php.net/function.require'>function.require</a>]: Failed opening required '/home/lovevit8/public_html/wms/app/Vendor/dompdf/include/packagingslip.cls.php' (include_path='/home/lovevit8/public_html/wms/lib:.:/usr/local/php54/pear') in /home/lovevit8/public_html/wms/app/Vendor/dompdf/dompdf_config.inc.php on line 209
+[30-Oct-2015 02:11:01 CST6CDT] PHP Fatal error:  require_once() [<a href='http://php.net/function.require'>function.require</a>]: Failed opening required '/home/lovevit8/public_html/wms/app/Vendor/dompdf/include/packagingslip.cls.php' (include_path='/home/lovevit8/public_html/wms/lib:.:/usr/local/php54/pear') in /home/lovevit8/public_html/wms/app/Vendor/dompdf/dompdf_config.inc.php on line 209
+[30-Oct-2015 02:12:02 CST6CDT] PHP Fatal error:  require_once() [<a href='http://php.net/function.require'>function.require</a>]: Failed opening required '/home/lovevit8/public_html/wms/app/Vendor/dompdf/include/packagingslip.cls.php' (include_path='/home/lovevit8/public_html/wms/lib:.:/usr/local/php54/pear') in /home/lovevit8/public_html/wms/app/Vendor/dompdf/dompdf_config.inc.php on line 209
+[30-Oct-2015 02:12:42 CST6CDT] PHP Fatal error:  require_once() [<a href='http://php.net/function.require'>function.require</a>]: Failed opening required '/home/lovevit8/public_html/wms/app/Vendor/dompdf/include/packagingslip.cls.php' (include_path='/home/lovevit8/public_html/wms/lib:.:/usr/local/php54/pear') in /home/lovevit8/public_html/wms/app/Vendor/dompdf/dompdf_config.inc.php on line 209
+[30-Oct-2015 02:14:09 CST6CDT] PHP Fatal error:  require_once() [<a href='http://php.net/function.require'>function.require</a>]: Failed opening required '/home/lovevit8/public_html/wms/app/Vendor/dompdf/include/packagingslip.cls.php' (include_path='/home/lovevit8/public_html/wms/lib:.:/usr/local/php54/pear') in /home/lovevit8/public_html/wms/app/Vendor/dompdf/dompdf_config.inc.php on line 209
+[05-Nov-2015 22:47:38 CST6CDT] PHP Fatal error:  Cannot redeclare LinnworksapisController::processorder() in /home/lovevit8/public_html/wms/app/Controller/LinnworksapisController.php on line 2102
+[05-Nov-2015 22:47:48 CST6CDT] PHP Fatal error:  Cannot redeclare LinnworksapisController::processorder() in /home/lovevit8/public_html/wms/app/Controller/LinnworksapisController.php on line 2102
+[05-Nov-2015 22:48:38 CST6CDT] PHP Fatal error:  Cannot redeclare LinnworksapisController::processorder() in /home/lovevit8/public_html/wms/app/Controller/LinnworksapisController.php on line 2102
+[05-Nov-2015 22:49:28 CST6CDT] PHP Fatal error:  Cannot redeclare LinnworksapisController::processorder() in /home/lovevit8/public_html/wms/app/Controller/LinnworksapisController.php on line 2102
+[05-Nov-2015 22:50:32 CST6CDT] PHP Fatal error:  require_once() [<a href='http://php.net/function.require'>function.require</a>]: Failed opening required '/home/lovevit8/public_html/wms/app/Vendor/dompdf/include/packagingslip.cls.php' (include_path='/home/lovevit8/public_html/wms/lib:.:/usr/local/php54/pear') in /home/lovevit8/public_html/wms/app/Vendor/dompdf/dompdf_config.inc.php on line 209
+[05-Nov-2015 23:03:08 CST6CDT] PHP Fatal error:  require_once() [<a href='http://php.net/function.require'>function.require</a>]: Failed opening required '/home/lovevit8/public_html/wms/app/Vendor/dompdf/include/packagingslip.cls.php' (include_path='/home/lovevit8/public_html/wms/lib:.:/usr/local/php54/pear') in /home/lovevit8/public_html/wms/app/Vendor/dompdf/dompdf_config.inc.php on line 209
+[05-Nov-2015 23:05:10 CST6CDT] PHP Fatal error:  require_once() [<a href='http://php.net/function.require'>function.require</a>]: Failed opening required '/home/lovevit8/public_html/wms/app/Vendor/dompdf/include/packagingslip.cls.php' (include_path='/home/lovevit8/public_html/wms/lib:.:/usr/local/php54/pear') in /home/lovevit8/public_html/wms/app/Vendor/dompdf/dompdf_config.inc.php on line 209
+[05-Nov-2015 23:09:57 CST6CDT] PHP Fatal error:  require_once() [<a href='http://php.net/function.require'>function.require</a>]: Failed opening required '/home/lovevit8/public_html/wms/app/Vendor/dompdf/include/packagingslip.cls.php' (include_path='/home/lovevit8/public_html/wms/lib:.:/usr/local/php54/pear') in /home/lovevit8/public_html/wms/app/Vendor/dompdf/dompdf_config.inc.php on line 209
+[05-Nov-2015 23:10:10 CST6CDT] PHP Fatal error:  require_once() [<a href='http://php.net/function.require'>function.require</a>]: Failed opening required '/home/lovevit8/public_html/wms/app/Vendor/dompdf/include/packagingslip.cls.php' (include_path='/home/lovevit8/public_html/wms/lib:.:/usr/local/php54/pear') in /home/lovevit8/public_html/wms/app/Vendor/dompdf/dompdf_config.inc.php on line 209
+[05-Nov-2015 23:21:42 CST6CDT] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/lovevit8/public_html/wms/app/Vendor/dompdf/lib/class.pdf.php on line 4332
+[05-Nov-2015 23:24:20 CST6CDT] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/lovevit8/public_html/wms/app/Vendor/dompdf/lib/class.pdf.php on line 4332
+[05-Nov-2015 23:24:20 CST6CDT] PHP Fatal error:  require_once() [<a href='http://php.net/function.require'>function.require</a>]: Failed opening required '/home/lovevit8/public_html/wms/app/Vendor/dompdf/include/packagingslip.cls.php' (include_path='/home/lovevit8/public_html/wms/lib:.:/usr/local/php54/pear') in /home/lovevit8/public_html/wms/app/Vendor/dompdf/dompdf_config.inc.php on line 209
+[05-Nov-2015 23:24:37 CST6CDT] PHP Fatal error:  require_once() [<a href='http://php.net/function.require'>function.require</a>]: Failed opening required '/home/lovevit8/public_html/wms/app/Vendor/dompdf/include/packagingslip.cls.php' (include_path='/home/lovevit8/public_html/wms/lib:.:/usr/local/php54/pear') in /home/lovevit8/public_html/wms/app/Vendor/dompdf/dompdf_config.inc.php on line 209
+[05-Nov-2015 23:25:48 CST6CDT] PHP Fatal error:  require_once() [<a href='http://php.net/function.require'>function.require</a>]: Failed opening required '/home/lovevit8/public_html/wms/app/Vendor/dompdf/include/packagingslip.cls.php' (include_path='/home/lovevit8/public_html/wms/lib:.:/usr/local/php54/pear') in /home/lovevit8/public_html/wms/app/Vendor/dompdf/dompdf_config.inc.php on line 209
+[06-Nov-2015 00:06:51 CST6CDT] PHP Fatal error:  require_once() [<a href='http://php.net/function.require'>function.require</a>]: Failed opening required '/home/lovevit8/public_html/wms/app/Vendor/dompdf/lib/php-font-lib/Classes/Font.php' (include_path='/home/lovevit8/public_html/wms/lib:.:/usr/local/php54/pear') in /home/lovevit8/public_html/wms/app/Vendor/dompdf/dompdf_config.inc.php on line 60
+[06-Nov-2015 00:14:22 CST6CDT] PHP Fatal error:  require_once() [<a href='http://php.net/function.require'>function.require</a>]: Failed opening required '/home/lovevit8/public_html/wms/app/Vendor/dompdf/lib/php-font-lib/Classes/Font.php' (include_path='/home/lovevit8/public_html/wms/lib:.:/usr/local/php54/pear') in /home/lovevit8/public_html/wms/app/Vendor/dompdf/dompdf_config.inc.php on line 60
+[06-Nov-2015 00:14:24 CST6CDT] PHP Fatal error:  require_once() [<a href='http://php.net/function.require'>function.require</a>]: Failed opening required '/home/lovevit8/public_html/wms/app/Vendor/dompdf/lib/php-font-lib/Classes/Font.php' (include_path='/home/lovevit8/public_html/wms/lib:.:/usr/local/php54/pear') in /home/lovevit8/public_html/wms/app/Vendor/dompdf/dompdf_config.inc.php on line 60
+[06-Nov-2015 00:14:27 CST6CDT] PHP Fatal error:  require_once() [<a href='http://php.net/function.require'>function.require</a>]: Failed opening required '/home/lovevit8/public_html/wms/app/Vendor/dompdf/lib/php-font-lib/Classes/Font.php' (include_path='/home/lovevit8/public_html/wms/lib:.:/usr/local/php54/pear') in /home/lovevit8/public_html/wms/app/Vendor/dompdf/dompdf_config.inc.php on line 60
+[06-Nov-2015 00:32:50 CST6CDT] PHP Fatal error:  require_once() [<a href='http://php.net/function.require'>function.require</a>]: Failed opening required '/home/lovevit8/public_html/wms/app/Vendor/dompdf/include/packagingslip.cls.php' (include_path='/home/lovevit8/public_html/wms/lib:.:/usr/local/php54/pear') in /home/lovevit8/public_html/wms/app/Vendor/dompdf/dompdf_config.inc.php on line 209
+[06-Nov-2015 05:47:29 CST6CDT] PHP Parse error:  syntax error, unexpected end of file, expecting ')' in /home/lovevit8/public_html/wms/app/Vendor/dompdf/lib/fonts/Helvetica.afm.php on line 82
+[06-Nov-2015 05:59:59 CST6CDT] PHP Parse error:  syntax error, unexpected ''.pdf'' (T_CONSTANT_ENCAPSED_STRING) in /home/lovevit8/public_html/wms/app/Controller/LinnworksapisController.php on line 2072
+[06-Nov-2015 06:00:43 CST6CDT] PHP Parse error:  syntax error, unexpected ''.pdf'' (T_CONSTANT_ENCAPSED_STRING) in /home/lovevit8/public_html/wms/app/Controller/LinnworksapisController.php on line 2072
+[08-Nov-2015 22:40:10 CST6CDT] PHP Fatal error:  Call to undefined method CronjobsController::setUpdateServiceCounter() in /home/lovevit8/public_html/wms/app/Controller/CronjobsController.php on line 1000
+[08-Nov-2015 22:40:20 CST6CDT] PHP Fatal error:  Call to undefined method CronjobsController::setUpdateServiceCounter() in /home/lovevit8/public_html/wms/app/Controller/CronjobsController.php on line 1000
+[08-Nov-2015 22:52:20 CST6CDT] PHP Fatal error:  Call to undefined method CronjobsController::setUpdateServiceCounter() in /home/lovevit8/public_html/wms/app/Controller/CronjobsController.php on line 1000
+[08-Nov-2015 22:56:25 CST6CDT] PHP Fatal error:  Call to undefined method CronjobsController::setUpdateServiceCounter() in /home/lovevit8/public_html/wms/app/Controller/CronjobsController.php on line 1000
+[08-Nov-2015 22:56:36 CST6CDT] PHP Fatal error:  Call to undefined method CronjobsController::setUpdateServiceCounter() in /home/lovevit8/public_html/wms/app/Controller/CronjobsController.php on line 1000
+[08-Nov-2015 22:59:46 CST6CDT] PHP Fatal error:  Call to undefined method CronjobsController::setUpdateServiceCounter() in /home/lovevit8/public_html/wms/app/Controller/CronjobsController.php on line 1003
+[08-Nov-2015 22:59:56 CST6CDT] PHP Fatal error:  Call to undefined method CronjobsController::setUpdateServiceCounter() in /home/lovevit8/public_html/wms/app/Controller/CronjobsController.php on line 1003
+[08-Nov-2015 23:02:10 CST6CDT] PHP Fatal error:  Call to undefined method CronjobsController::setUpdateServiceCounter() in /home/lovevit8/public_html/wms/app/Controller/CronjobsController.php on line 1000
+[08-Nov-2015 23:14:15 CST6CDT] PHP Fatal error:  Call to undefined method CronjobsController::setUpdateServiceCounter() in /home/lovevit8/public_html/wms/app/Controller/CronjobsController.php on line 1000
+[09-Nov-2015 00:26:04 CST6CDT] PHP Fatal error:  Call to undefined method CronjobsController::setUpdateServiceCounter() in /home/lovevit8/public_html/wms/app/Controller/CronjobsController.php on line 1000
+[09-Nov-2015 00:26:53 CST6CDT] PHP Fatal error:  Call to undefined method CronjobsController::setUpdateServiceCounter() in /home/lovevit8/public_html/wms/app/Controller/CronjobsController.php on line 1000
+[09-Nov-2015 00:28:14 CST6CDT] PHP Fatal error:  Call to undefined method CronjobsController::setUpdateServiceCounter() in /home/lovevit8/public_html/wms/app/Controller/CronjobsController.php on line 1000
+[09-Nov-2015 05:33:28 CST6CDT] PHP Fatal error:  Cannot redeclare CronjobsController::shortingthtml() in /home/lovevit8/public_html/wms/app/Controller/CronjobsController.php on line 1091
+[09-Nov-2015 05:33:44 CST6CDT] PHP Fatal error:  Cannot redeclare CronjobsController::shortingthtml() in /home/lovevit8/public_html/wms/app/Controller/CronjobsController.php on line 1091
+[10-Nov-2015 01:21:15 CST6CDT] PHP Fatal error:  Call to a member function page_text() on a non-object in /home/lovevit8/public_html/wms/app/Controller/LinnworksapisController.php on line 1929
+[10-Nov-2015 01:21:21 CST6CDT] PHP Fatal error:  Call to a member function page_text() on a non-object in /home/lovevit8/public_html/wms/app/Controller/LinnworksapisController.php on line 1929
+[10-Nov-2015 01:51:37 CST6CDT] PHP Parse error:  syntax error, unexpected '$content' (T_VARIABLE) in /home/lovevit8/public_html/wms/app/Controller/CronjobsController.php on line 393
+[10-Nov-2015 01:54:04 CST6CDT] PHP Parse error:  syntax error, unexpected '$content' (T_VARIABLE) in /home/lovevit8/public_html/wms/app/Controller/CronjobsController.php on line 393
+[10-Nov-2015 01:54:22 CST6CDT] PHP Parse error:  syntax error, unexpected '$assingdata' (T_VARIABLE) in /home/lovevit8/public_html/wms/app/Controller/CronjobsController.php on line 396
+[10-Nov-2015 04:35:09 CST6CDT] PHP Fatal error:  Call to undefined function get_width() in /home/lovevit8/public_html/wms/app/Controller/LinnworksapisController.php on line 1732
+[10-Nov-2015 04:35:28 CST6CDT] PHP Fatal error:  Call to undefined function get_width() in /home/lovevit8/public_html/wms/app/Controller/LinnworksapisController.php on line 1732
+[10-Nov-2015 04:37:52 CST6CDT] PHP Fatal error:  Call to undefined function get_width() in /home/lovevit8/public_html/wms/app/Controller/LinnworksapisController.php on line 1732
+[16-Nov-2015 03:41:02 CST6CDT] PHP Parse error:  syntax error, unexpected 'print' (T_PRINT), expecting identifier (T_STRING) in /home/lovevit8/public_html/wms/app/Controller/LinnworksapisController.php on line 2672
+[16-Nov-2015 05:16:33 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/lovevit8/public_html/wms/app/Controller/LinnworksapisController.php on line 100
+[16-Nov-2015 22:39:08 CST6CDT] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/lovevit8/public_html/wms/app/Controller/LinnworksapisController.php on line 1508
+[16-Nov-2015 22:39:30 CST6CDT] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/lovevit8/public_html/wms/app/Controller/LinnworksapisController.php on line 1508
+[16-Nov-2015 22:43:05 CST6CDT] PHP Fatal error:  Class 'DOMPDF' not found in /home/lovevit8/public_html/wms/app/Controller/LinnworksapisController.php on line 1504
+[16-Nov-2015 22:43:05 CST6CDT] PHP Fatal error:  Class 'DOMPDF' not found in /home/lovevit8/public_html/wms/app/Controller/LinnworksapisController.php on line 1844
+[17-Nov-2015 04:46:18 CST6CDT] PHP Fatal error:  require() [<a href='http://php.net/function.require'>function.require</a>]: Failed opening required 'fpdf.php' (include_path='/home/lovevit8/public_html/wms/lib:.:/usr/local/php54/pear') in /home/lovevit8/public_html/wms/app/Controller/LinnworksapisController.php on line 2684
+[17-Nov-2015 04:47:54 CST6CDT] PHP Fatal error:  require() [<a href='http://php.net/function.require'>function.require</a>]: Failed opening required 'fpdf.php' (include_path='/home/lovevit8/public_html/wms/lib:.:/usr/local/php54/pear') in /home/lovevit8/public_html/wms/app/Controller/LinnworksapisController.php on line 2684
+[17-Nov-2015 04:48:14 CST6CDT] PHP Fatal error:  require() [<a href='http://php.net/function.require'>function.require</a>]: Failed opening required 'fpdf/fpdf.php' (include_path='/home/lovevit8/public_html/wms/lib:.:/usr/local/php54/pear') in /home/lovevit8/public_html/wms/app/Controller/LinnworksapisController.php on line 2684
+[17-Nov-2015 06:13:38 CST6CDT] PHP Fatal error:  Call to a member function output() on a non-object in /home/lovevit8/public_html/wms/app/Controller/LinnworksapisController.php on line 1504
+[17-Nov-2015 06:14:40 CST6CDT] PHP Parse error:  syntax error, unexpected '';' (T_CONSTANT_ENCAPSED_STRING) in /home/lovevit8/public_html/wms/app/Controller/LinnworksapisController.php on line 1521
+[17-Nov-2015 06:48:33 CST6CDT] PHP Fatal error:  require_once() [<a href='http://php.net/function.require'>function.require</a>]: Failed opening required 'tcpdf/tcpdf_include.php' (include_path='/home/lovevit8/public_html/wms/lib:.:/usr/local/php54/pear') in /home/lovevit8/public_html/wms/app/Controller/LinnworksapisController.php on line 2745
+[19-Nov-2015 23:41:09 CST6CDT] PHP Fatal error:  Call to a member function find() on a non-object in /home/lovevit8/public_html/wms/app/Controller/CronjobsController.php on line 112
+[19-Nov-2015 23:42:48 CST6CDT] PHP Fatal error:  Call to a member function find() on a non-object in /home/lovevit8/public_html/wms/app/Controller/CronjobsController.php on line 113
+[19-Nov-2015 23:44:58 CST6CDT] PHP Fatal error:  Call to a member function find() on a non-object in /home/lovevit8/public_html/wms/app/Controller/CronjobsController.php on line 113
+[19-Nov-2015 23:54:02 CST6CDT] PHP Fatal error:  Call to undefined method LinnworksapisController::getQuantity() in /home/lovevit8/public_html/wms/app/View/Linnworksapis/confirm_barcode.ctp on line 67
+[20-Nov-2015 00:14:26 CST6CDT] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/lovevit8/public_html/wms/app/Controller/LinnworksapisController.php on line 2220
+[20-Nov-2015 01:04:39 CST6CDT] PHP Fatal error:  Call to undefined method LinnworksapisController::checkInventery() in /home/lovevit8/public_html/wms/app/View/Linnworksapis/get_open_order.ctp on line 53
+[20-Nov-2015 02:15:46 CST6CDT] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/lovevit8/public_html/wms/app/Controller/LinnworksapisController.php on line 2220
+[20-Nov-2015 02:16:30 CST6CDT] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/lovevit8/public_html/wms/app/Controller/LinnworksapisController.php on line 2220
+[20-Nov-2015 02:16:48 CST6CDT] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/lovevit8/public_html/wms/app/Controller/LinnworksapisController.php on line 2220
+[20-Nov-2015 04:49:36 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/lovevit8/public_html/wms/app/Controller/TemplatesController.php on line 42
+[20-Nov-2015 06:12:04 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/lovevit8/public_html/wms/app/Controller/TemplatesController.php on line 329
+[20-Nov-2015 06:15:51 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/lovevit8/public_html/wms/app/Controller/TemplatesController.php on line 42
+[24-Nov-2015 04:08:16 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/lovevit8/public_html/wms/app/Controller/TemplatesController.php on line 43
+[24-Nov-2015 04:37:18 CST6CDT] PHP Parse error:  syntax error, unexpected ''' (T_ENCAPSED_AND_WHITESPACE) in /home/lovevit8/public_html/wms/app/Controller/TemplatesController.php on line 198
+[24-Nov-2015 05:24:15 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/lovevit8/public_html/wms/app/Controller/TemplatesController.php on line 86
+[24-Nov-2015 05:24:41 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/lovevit8/public_html/wms/app/Controller/TemplatesController.php on line 562
+[24-Nov-2015 06:46:22 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/lovevit8/public_html/wms/app/Controller/TemplatesController.php on line 43
+[24-Nov-2015 06:51:19 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/lovevit8/public_html/wms/app/Controller/TemplatesController.php on line 43
+[24-Nov-2015 06:52:22 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/lovevit8/public_html/wms/app/Controller/TemplatesController.php on line 335
+[27-Nov-2015 00:14:31 CST6CDT] PHP Parse error:  syntax error, unexpected 'sir' (T_STRING) in /home/lovevit8/public_html/wms/app/Config/core.php on line 440
+[27-Nov-2015 05:51:57 CST6CDT] PHP Parse error:  syntax error, unexpected ''OpenOrder.n' (T_ENCAPSED_AND_WHITESPACE), expecting ')' in /home/lovevit8/public_html/wms/app/Controller/CronjobsController.php on line 1685
+[27-Nov-2015 05:53:07 CST6CDT] PHP Parse error:  syntax error, unexpected ''acti' (T_ENCAPSED_AND_WHITESPACE), expecting ')' in /home/lovevit8/public_html/wms/app/Controller/CronjobsController.php on line 1494
+[27-Nov-2015 06:25:06 CST6CDT] PHP Fatal error:  Call to undefined method Inline_Frame_Decorator::normalise() in /home/lovevit8/public_html/wms/app/Vendor/dompdf/include/table_frame_decorator.cls.php on line 305
+[27-Nov-2015 06:27:08 CST6CDT] PHP Fatal error:  Call to undefined method Inline_Frame_Decorator::normalise() in /home/lovevit8/public_html/wms/app/Vendor/dompdf/include/table_frame_decorator.cls.php on line 305
+[27-Nov-2015 06:29:18 CST6CDT] PHP Fatal error:  Call to undefined method Inline_Frame_Decorator::normalise() in /home/lovevit8/public_html/wms/app/Vendor/dompdf/include/table_frame_decorator.cls.php on line 305
+[30-Nov-2015 23:14:39 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/lovevit8/public_html/wms/app/View/Cronjobs/shortingthtml.ctp on line 78
+[30-Nov-2015 23:16:48 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/lovevit8/public_html/wms/app/View/Cronjobs/shortingthtml.ctp on line 313
+[30-Nov-2015 23:43:43 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/lovevit8/public_html/wms/app/View/Cronjobs/shortingthtml.ctp on line 118
+[01-Dec-2015 00:22:18 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/lovevit8/public_html/wms/app/View/Cronjobs/shortingthtml.ctp on line 267
+[01-Dec-2015 00:27:41 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/lovevit8/public_html/wms/app/View/Cronjobs/shortingthtml.ctp on line 38
+[01-Dec-2015 01:01:09 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/lovevit8/public_html/wms/app/View/Cronjobs/shortingthtml.ctp on line 61
+[01-Dec-2015 03:37:31 CST6CDT] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 39938968 bytes) in /home/lovevit8/public_html/wms/lib/Cake/View/View.php on line 951
+[01-Dec-2015 03:38:05 CST6CDT] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 39938968 bytes) in /home/lovevit8/public_html/wms/lib/Cake/View/View.php on line 951
+[01-Dec-2015 03:38:13 CST6CDT] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 39909227 bytes) in /home/lovevit8/public_html/wms/lib/Cake/View/View.php on line 951
+[01-Dec-2015 03:38:37 CST6CDT] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 39965608 bytes) in /home/lovevit8/public_html/wms/lib/Cake/View/View.php on line 951
+[01-Dec-2015 03:39:45 CST6CDT] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 39955839 bytes) in /home/lovevit8/public_html/wms/lib/Cake/View/View.php on line 951
+[01-Dec-2015 04:44:33 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/lovevit8/public_html/wms/app/View/Cronjobs/open_rack.ctp on line 81
+[01-Dec-2015 04:48:27 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/lovevit8/public_html/wms/app/View/Cronjobs/open_rack.ctp on line 81
+[01-Dec-2015 05:28:50 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/lovevit8/public_html/wms/app/View/Cronjobs/open_rack.ctp on line 81
+[01-Dec-2015 06:23:29 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/lovevit8/public_html/wms/app/View/Cronjobs/open_rack.ctp on line 81
+[02-Dec-2015 06:30:05 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/lovevit8/public_html/wms/app/Controller/ProductsController.php on line 352
+[03-Dec-2015 01:17:08 CST6CDT] PHP Parse error:  syntax error, unexpected 'exit' (T_EXIT) in /home/lovevit8/public_html/wms/app/Controller/ProductsController.php on line 763
+[03-Dec-2015 01:17:11 CST6CDT] PHP Parse error:  syntax error, unexpected 'exit' (T_EXIT) in /home/lovevit8/public_html/wms/app/Controller/ProductsController.php on line 763
+[03-Dec-2015 01:17:37 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/lovevit8/public_html/wms/app/Controller/ProductsController.php on line 692
+[03-Dec-2015 01:18:35 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/lovevit8/public_html/wms/app/Controller/ProductsController.php on line 692
+[03-Dec-2015 01:28:03 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/lovevit8/public_html/wms/app/Controller/ProductsController.php on line 365
+[03-Dec-2015 02:08:29 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/lovevit8/public_html/wms/app/Controller/ProductsController.php on line 661
+[03-Dec-2015 02:14:15 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/lovevit8/public_html/wms/app/Controller/ProductsController.php on line 567
+[03-Dec-2015 02:15:16 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/lovevit8/public_html/wms/app/Controller/ProductsController.php on line 661
+[03-Dec-2015 02:16:21 CST6CDT] PHP Warning:  Unterminated comment starting line 415 in /home/lovevit8/public_html/wms/app/Controller/ProductsController.php on line 415
+[03-Dec-2015 02:16:21 CST6CDT] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/lovevit8/public_html/wms/app/Controller/ProductsController.php on line 471
+[03-Dec-2015 02:16:39 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/lovevit8/public_html/wms/app/Controller/ProductsController.php on line 47
+[03-Dec-2015 02:57:57 CST6CDT] PHP Parse error:  syntax error, unexpected '"'"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/lovevit8/public_html/wms/app/Controller/ProductsController.php on line 775
+[03-Dec-2015 05:09:16 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/lovevit8/public_html/wms/app/Controller/ProductsController.php on line 567
+[03-Dec-2015 05:11:29 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/lovevit8/public_html/wms/app/Controller/ProductsController.php on line 567
+[03-Dec-2015 05:11:54 CST6CDT] PHP Warning:  Unterminated comment starting line 415 in /home/lovevit8/public_html/wms/app/Controller/ProductsController.php on line 415
+[03-Dec-2015 05:11:54 CST6CDT] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/lovevit8/public_html/wms/app/Controller/ProductsController.php on line 462
+[03-Dec-2015 05:29:46 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/lovevit8/public_html/wms/app/Controller/CronjobsController.php on line 2190
+[03-Dec-2015 05:48:20 CST6CDT] PHP Parse error:  syntax error, unexpected ''A' (T_ENCAPSED_AND_WHITESPACE), expecting ')' in /home/lovevit8/public_html/wms/app/Controller/CronjobsController.php on line 430
+[03-Dec-2015 05:48:23 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/lovevit8/public_html/wms/app/Controller/CronjobsController.php on line 1307
+[03-Dec-2015 06:26:21 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/lovevit8/public_html/wms/app/Controller/ProductsController.php on line 659
+[03-Dec-2015 06:39:14 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/lovevit8/public_html/wms/app/Controller/ProductsController.php on line 659
+[03-Dec-2015 06:50:31 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/lovevit8/public_html/wms/app/Controller/ProductsController.php on line 576
+[03-Dec-2015 06:51:47 CST6CDT] PHP Warning:  Unterminated comment starting line 591 in /home/lovevit8/public_html/wms/app/Controller/ProductsController.php on line 591
+[03-Dec-2015 06:51:47 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/lovevit8/public_html/wms/app/Controller/ProductsController.php on line 592
+[03-Dec-2015 06:54:19 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/lovevit8/public_html/wms/app/Controller/ProductsController.php on line 576
+[03-Dec-2015 06:58:28 CST6CDT] PHP Parse error:  syntax error, unexpected 'exit' (T_EXIT), expecting ',' or ';' in /home/lovevit8/public_html/wms/app/Controller/ProductsController.php on line 843
+[03-Dec-2015 06:58:30 CST6CDT] PHP Parse error:  syntax error, unexpected 'exit' (T_EXIT), expecting ',' or ';' in /home/lovevit8/public_html/wms/app/Controller/ProductsController.php on line 843
+[03-Dec-2015 06:58:32 CST6CDT] PHP Parse error:  syntax error, unexpected 'exit' (T_EXIT), expecting ',' or ';' in /home/lovevit8/public_html/wms/app/Controller/ProductsController.php on line 843
+[03-Dec-2015 06:58:36 CST6CDT] PHP Parse error:  syntax error, unexpected 'exit' (T_EXIT), expecting ',' or ';' in /home/lovevit8/public_html/wms/app/Controller/ProductsController.php on line 843
+[03-Dec-2015 07:04:17 CST6CDT] PHP Warning:  Unterminated comment starting line 415 in /home/lovevit8/public_html/wms/app/Controller/ProductsController.php on line 415
+[03-Dec-2015 07:04:17 CST6CDT] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/lovevit8/public_html/wms/app/Controller/ProductsController.php on line 471
+[03-Dec-2015 22:53:43 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/lovevit8/public_html/wms/app/Controller/ProductsController.php on line 806
+[03-Dec-2015 22:54:03 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/lovevit8/public_html/wms/app/Controller/ProductsController.php on line 688
+[03-Dec-2015 23:13:28 CST6CDT] PHP Warning:  Unterminated comment starting line 415 in /home/lovevit8/public_html/wms/app/Controller/ProductsController.php on line 415
+[03-Dec-2015 23:13:28 CST6CDT] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/lovevit8/public_html/wms/app/Controller/ProductsController.php on line 462
+[03-Dec-2015 23:39:28 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/lovevit8/public_html/wms/app/Controller/ProductsController.php on line 349
+[03-Dec-2015 23:56:03 CST6CDT] PHP Warning:  Unterminated comment starting line 415 in /home/lovevit8/public_html/wms/app/Controller/ProductsController.php on line 415
+[03-Dec-2015 23:56:03 CST6CDT] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/lovevit8/public_html/wms/app/Controller/ProductsController.php on line 458
+[04-Dec-2015 00:29:00 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/lovevit8/public_html/wms/app/Controller/ProductsController.php on line 576
+[04-Dec-2015 00:42:10 CST6CDT] PHP Warning:  Unterminated comment starting line 415 in /home/lovevit8/public_html/wms/app/Controller/ProductsController.php on line 415
+[04-Dec-2015 00:42:10 CST6CDT] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/lovevit8/public_html/wms/app/Controller/ProductsController.php on line 471
+[04-Dec-2015 00:44:37 CST6CDT] PHP Parse error:  syntax error, unexpected ''setNewGroundAr' (T_ENCAPSED_AND_WHITESPACE), expecting ')' in /home/lovevit8/public_html/wms/app/Controller/ProductsController.php on line 687
+[04-Dec-2015 00:58:46 CST6CDT] PHP Parse error:  syntax error, unexpected ''Produc' (T_ENCAPSED_AND_WHITESPACE), expecting ')' in /home/lovevit8/public_html/wms/app/Controller/ProductsController.php on line 799
+[04-Dec-2015 01:15:51 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/lovevit8/public_html/wms/app/Controller/TemplatesController.php on line 569
+[04-Dec-2015 01:16:32 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/lovevit8/public_html/wms/app/Controller/TemplatesController.php on line 570
+[04-Dec-2015 01:19:12 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/lovevit8/public_html/wms/app/Controller/TemplatesController.php on line 569
+[04-Dec-2015 01:19:34 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/lovevit8/public_html/wms/app/Controller/TemplatesController.php on line 568
+[04-Dec-2015 01:22:16 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/lovevit8/public_html/wms/app/Controller/TemplatesController.php on line 86
+[04-Dec-2015 01:30:06 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/lovevit8/public_html/wms/app/Controller/TemplatesController.php on line 86
+[04-Dec-2015 01:47:05 CST6CDT] PHP Parse error:  syntax error, unexpected '' in /home/lovevit8/public_html/wms/app/Controller/ProductsController.php on line 800
+[04-Dec-2015 04:20:34 CST6CDT] PHP Parse error:  syntax error, unexpected ''getCa' (T_ENCAPSED_AND_WHITESPACE), expecting ')' in /home/lovevit8/public_html/wms/app/Controller/ProductsController.php on line 258
+[04-Dec-2015 04:43:43 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/lovevit8/public_html/wms/app/Controller/ProductsController.php on line 541
+[04-Dec-2015 04:44:51 CST6CDT] PHP Parse error:  syntax error, unexpected ''getCa' (T_ENCAPSED_AND_WHITESPACE), expecting ')' in /home/lovevit8/public_html/wms/app/Controller/ProductsController.php on line 258
+[04-Dec-2015 06:02:26 CST6CDT] PHP Fatal error:  Call to undefined method Inline_Frame_Decorator::normalise() in /home/lovevit8/public_html/wms/app/Vendor/dompdf/include/table_frame_decorator.cls.php on line 305
+[04-Dec-2015 06:02:32 CST6CDT] PHP Fatal error:  Call to undefined method Inline_Frame_Decorator::normalise() in /home/lovevit8/public_html/wms/app/Vendor/dompdf/include/table_frame_decorator.cls.php on line 305
+[04-Dec-2015 06:02:41 CST6CDT] PHP Fatal error:  Call to undefined method Inline_Frame_Decorator::normalise() in /home/lovevit8/public_html/wms/app/Vendor/dompdf/include/table_frame_decorator.cls.php on line 305
+[07-Dec-2015 06:31:10 CST6CDT] PHP Parse error:  syntax error, unexpected ''</table>' (T_ENCAPSED_AND_WHITESPACE) in /home/lovevit8/public_html/wms/app/Controller/CronjobsController.php on line 2156
+[07-Dec-2015 06:32:02 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/lovevit8/public_html/wms/app/Controller/CronjobsController.php on line 1574
+[07-Dec-2015 06:32:44 CST6CDT] PHP Parse error:  syntax error, unexpected end of file, expecting ']' in /home/lovevit8/public_html/wms/app/Controller/CronjobsController.php on line 2156
+[07-Dec-2015 06:33:28 CST6CDT] PHP Parse error:  syntax error, unexpected end of file, expecting ')' in /home/lovevit8/public_html/wms/app/Controller/CronjobsController.php on line 1232
+[07-Dec-2015 06:33:30 CST6CDT] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or '$' in /home/lovevit8/public_html/wms/app/Controller/CronjobsController.php on line 1681
+[07-Dec-2015 22:31:45 CST6CDT] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/lovevit8/public_html/wms/app/Controller/UsersController.php on line 170
+[07-Dec-2015 22:32:11 CST6CDT] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/lovevit8/public_html/wms/app/Controller/UsersController.php on line 131
+[08-Dec-2015 23:48:34 CST6CDT] PHP Fatal error:  Maximum execution time of 45 seconds exceeded in /home/lovevit8/public_html/wms/lib/Cake/Utility/Hash.php on line 0
+[09-Dec-2015 00:02:52 CST6CDT] PHP Warning:  Unterminated comment starting line 1009 in /home/lovevit8/public_html/wms/app/Controller/CronjobsController.php on line 1009
+[09-Dec-2015 00:02:52 CST6CDT] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/lovevit8/public_html/wms/app/Controller/CronjobsController.php on line 1028
+[10-Dec-2015 06:10:35 CST6CDT] PHP Warning:  Unterminated comment starting line 19 in /home/lovevit8/public_html/wms/app/Config/database.php on line 19
+[11-Dec-2015 06:21:26 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/lovevit8/public_html/wms/app/Controller/ProductsController.php on line 1216
+[13-Dec-2015 22:26:07 CST6CDT] PHP Fatal error:  Call to a member function find() on a non-object in /home/lovevit8/public_html/wms/app/Controller/CronjobsController.php on line 110
+[13-Dec-2015 22:47:40 CST6CDT] PHP Fatal error:  Call to undefined method LinnworksapisController::getAllOrderItem() in /home/lovevit8/public_html/wms/app/Controller/LinnworksapisController.php on line 960
+[13-Dec-2015 22:49:35 CST6CDT] PHP Parse error:  syntax error, unexpected end of file, expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/lovevit8/public_html/wms/app/Controller/LinnworksapisController.php on line 627
+[14-Dec-2015 00:04:28 CST6CDT] PHP Fatal error:  Call to undefined method LinnworksapisController::getProductDetail() in /home/lovevit8/public_html/wms/app/Controller/LinnworksapisController.php on line 2207
+[14-Dec-2015 01:14:02 CST6CDT] PHP Fatal error:  Call to a member function find() on a non-object in /home/lovevit8/public_html/wms/app/Controller/LinnworksapisController.php on line 837
+[14-Dec-2015 05:04:30 CST6CDT] PHP Parse error:  syntax error, unexpected '$objPHPExcel' (T_VARIABLE) in /home/lovevit8/public_html/wms/app/Controller/CronjobsController.php on line 1376
+[14-Dec-2015 05:11:10 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/lovevit8/public_html/wms/app/Controller/CronjobsController.php on line 1217
+[15-Dec-2015 01:15:48 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/lovevit8/public_html/wms/app/Controller/LinnworksapisController.php on line 357
+[15-Dec-2015 01:19:35 CST6CDT] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 31034502 bytes) in /home/lovevit8/public_html/wms/lib/Cake/View/View.php on line 951
+[15-Dec-2015 01:21:18 CST6CDT] PHP Parse error:  syntax error, unexpected 'M' (T_STRING) in /home/lovevit8/public_html/wms/app/Controller/LinnworksapisController.php on line 3
+[15-Dec-2015 01:34:48 CST6CDT] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home/lovevit8/public_html/wms/app/Controller/LinnworksapisController.php on line 314
+[15-Dec-2015 01:34:51 CST6CDT] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home/lovevit8/public_html/wms/app/Controller/LinnworksapisController.php on line 314
+[15-Dec-2015 04:08:06 CST6CDT] PHP Fatal error:  Call to a member function find() on a non-object in /home/lovevit8/public_html/wms/app/Controller/LinnworksapisController.php on line 519
+[15-Dec-2015 04:08:33 CST6CDT] PHP Fatal error:  Call to a member function find() on a non-object in /home/lovevit8/public_html/wms/app/Controller/LinnworksapisController.php on line 519
+[15-Dec-2015 05:09:22 CST6CDT] PHP Fatal error:  Call to a member function find() on a non-object in /home/lovevit8/public_html/wms/app/Controller/LinnworksapisController.php on line 519
+[15-Dec-2015 05:13:53 CST6CDT] PHP Fatal error:  Call to a member function find() on a non-object in /home/lovevit8/public_html/wms/app/Controller/LinnworksapisController.php on line 519
+[15-Dec-2015 05:13:54 CST6CDT] PHP Fatal error:  Call to a member function find() on a non-object in /home/lovevit8/public_html/wms/app/Controller/LinnworksapisController.php on line 519
+[15-Dec-2015 05:13:55 CST6CDT] PHP Fatal error:  Call to a member function find() on a non-object in /home/lovevit8/public_html/wms/app/Controller/LinnworksapisController.php on line 519
+[16-Dec-2015 00:01:14 CST6CDT] PHP Parse error:  syntax error, unexpected 'exit' (T_EXIT), expecting ',' or ';' in /home/lovevit8/public_html/wms/app/Controller/LinnworksapisController.php on line 1022
+[16-Dec-2015 00:02:10 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/lovevit8/public_html/wms/app/Controller/LinnworksapisController.php on line 750
+[16-Dec-2015 01:07:28 CST6CDT] PHP Fatal error:  Cannot use object of type stdClass as array in /home/lovevit8/public_html/wms/app/View/Linnworksapis/get_open_order.ctp on line 403
+[16-Dec-2015 01:07:50 CST6CDT] PHP Fatal error:  Cannot use object of type stdClass as array in /home/lovevit8/public_html/wms/app/View/Linnworksapis/get_open_order.ctp on line 403
+[16-Dec-2015 01:09:17 CST6CDT] PHP Fatal error:  Cannot use object of type stdClass as array in /home/lovevit8/public_html/wms/app/View/Linnworksapis/get_open_order.ctp on line 403
+[16-Dec-2015 01:09:54 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/lovevit8/public_html/wms/app/View/Linnworksapis/get_open_order.ctp on line 644
+[16-Dec-2015 21:10:02 CST6CDT] PHP Fatal error:  Cannot use object of type stdClass as array in /home/lovevit8/public_html/wms/app/Controller/CronjobsController.php on line 56
