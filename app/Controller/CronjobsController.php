@@ -263,7 +263,7 @@ class CronjobsController extends AppController
 													}
 													else
 													{
-														echo "Exceed Limit to split."; exit;
+														//echo "Exceed Limit to split."; exit;
 													}												
 												}
 											}
